@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Documentation.OutJob
+Name=
 Description=
 TargetOutputMedium=BOM
 VariantName=[No Variations]
@@ -171,8 +171,8 @@ OutputPathOutputer3=[Output Type]
 OutputPathOutputerPrefix3=
 OutputPathOutputerValue3=
 OutputFileName3=
-OutputFileNameMulti3=
-UseOutputNameForMulti3=1
+OutputFileNameMulti3=BOM_CapacitanceEmulator
+UseOutputNameForMulti3=0
 OutputFileNameSpecial3=
 OpenOutput3=1
 
