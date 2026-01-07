@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Documentation.OutJob
 Description=
 TargetOutputMedium=BOM
 VariantName=[No Variations]
@@ -183,7 +183,7 @@ RelativeOutputPath2=Project Outputs for Free Documents\capacitance_stub_top.PDF
 OpenOutputs2=1
 RelativeOutputPath3=C:\Users\Andrew A. Katz\Documents\ESE6710\aakatz ESE6710 capacitance stub PCB\Project Outputs for aakatz ESE6710 capacitance stub PCB\
 OpenOutputs3=1
-AddToProject3=1
+AddToProject3=0
 TimestampFolder3=0
 UseOutputName3=0
 OpenODBOutput3=0
