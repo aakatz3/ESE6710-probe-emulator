@@ -1,7 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\Andrew A. Katz\Documents\ESE6710\aakatz ESE6710 capacitance stub PCB\capacitance stub.PcbDoc
-RuleKind=SolderMaskExpansion|RuleName=Tent Vias|Scope=Board|Minimum=4.00
-RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
